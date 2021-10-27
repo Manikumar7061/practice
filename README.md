@@ -1,3 +1,7 @@
 # practice
 
-practcing git
+practicing git
+
+# new Modifications
+
+checking pull
